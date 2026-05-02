@@ -1,5 +1,41 @@
 [
   {
+    "name": "Tachiyomi: Project Gutenberg",
+    "pkg": "eu.kanade.tachiyomi.extension.en.projectgutenberg",
+    "apk": "tachiyomi-en.projectgutenberg-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Project Gutenberg",
+        "lang": "en",
+        "id": "5263063031439760440",
+        "baseUrl": "https://www.gutenberg.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Standard Ebooks",
+    "pkg": "eu.kanade.tachiyomi.extension.en.standardebooks",
+    "apk": "tachiyomi-en.standardebooks-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Standard Ebooks",
+        "lang": "en",
+        "id": "3505754692792367245",
+        "baseUrl": "https://standardebooks.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ZLibrary",
     "pkg": "eu.kanade.tachiyomi.extension.en.zlibrary",
     "apk": "tachiyomi-en.zlibrary-v1.4.4.apk",
