@@ -1,5 +1,41 @@
 [
   {
+    "name": "Tachiyomi: Ocean of PDF",
+    "pkg": "eu.kanade.tachiyomi.extension.en.oceanofpdf",
+    "apk": "tachiyomi-en.oceanofpdf-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Ocean of PDF",
+        "lang": "en",
+        "id": "7170448576730537096",
+        "baseUrl": "https://oceanofpdf.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Open Library",
+    "pkg": "eu.kanade.tachiyomi.extension.en.openlibrary",
+    "apk": "tachiyomi-en.openlibrary-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Open Library",
+        "lang": "en",
+        "id": "4971904383086826545",
+        "baseUrl": "https://openlibrary.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Project Gutenberg",
     "pkg": "eu.kanade.tachiyomi.extension.en.projectgutenberg",
     "apk": "tachiyomi-en.projectgutenberg-v1.4.1.apk",
